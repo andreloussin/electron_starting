@@ -1,0 +1,28 @@
+{
+  "name": "starting",
+  "version": "1.0.0",
+  "description": "Start learning Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "test-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreloussin/electron_starting.git"
+  },
+  "keywords": [
+    "elect_start"
+  ],
+  "author": "LOUSSIN Andre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreloussin/electron_starting/issues"
+  },
+  "homepage": "https://github.com/andreloussin/electron_starting#readme",
+  "scrits": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^19.0.6"
+  }
+}
